@@ -4,7 +4,7 @@ using System.Linq;
 using System.Windows.Forms;
 using TabControlAdv_HotTrack;
 
-namespace TextBoxExt_BackColor
+namespace TabControlAdv_HotTrack
 {
     static class Program
     {
