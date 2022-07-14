@@ -5,7 +5,7 @@ using Syncfusion.Windows.Forms.Tools;
 using Syncfusion.Windows.Forms;
 using System.Drawing.Drawing2D;
 
-namespace TabControlAdv_HotTracking
+namespace TabControlAdv_HotTrack
 {
     public partial class Form1 : MetroForm
     {

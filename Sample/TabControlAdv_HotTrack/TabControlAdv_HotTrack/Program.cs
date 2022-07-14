@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
-using TabControlAdv_HotTracking;
+using TabControlAdv_HotTrack;
 
 namespace TextBoxExt_BackColor
 {
