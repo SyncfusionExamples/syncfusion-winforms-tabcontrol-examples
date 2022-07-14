@@ -5,7 +5,7 @@ using Syncfusion.Windows.Forms.Tools;
 using Syncfusion.Windows.Forms;
 using System.Drawing.Drawing2D;
 
-namespace TextBoxExt_BackColor
+namespace TabControlAdv_HotTracking
 {
     public partial class Form1 : MetroForm
     {
@@ -28,7 +28,7 @@ namespace TextBoxExt_BackColor
             {
                 drawItemInfo.ForeColor = Color.Red;
                 drawItemInfo.BackColor = Color.Khaki;
-                drawItemInfo.Font = new Font("Segoe Marker", 8.0F, FontStyle.Bold);
+                drawItemInfo.Font = new Font("Segoe Marker", 12.0F, FontStyle.Italic);
             }
             //To draw the default background and interior
             drawItemInfo.DrawBackground();

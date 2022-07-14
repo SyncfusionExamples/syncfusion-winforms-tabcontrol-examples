@@ -1,5 +1,5 @@
 ﻿using Syncfusion.Windows.Forms.Tools;
-namespace TextBoxExt_BackColor
+namespace TabControlAdv_HotTracking
 {
     partial class Form1
     {
@@ -141,7 +141,7 @@ namespace TextBoxExt_BackColor
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "TabControlAdv_Sample";
+            this.Text = "TabControlAdv HotTrack";
             ((System.ComponentModel.ISupportInitialize)(this.tabControlAdv1)).EndInit();
             this.tabControlAdv1.ResumeLayout(false);
             this.ResumeLayout(false);
