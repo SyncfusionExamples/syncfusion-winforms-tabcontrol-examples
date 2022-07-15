@@ -5,7 +5,7 @@ using Syncfusion.Windows.Forms.Tools;
 using Syncfusion.Windows.Forms;
 using System.Drawing.Drawing2D;
 
-namespace TabControlAdv_HotTrack
+namespace HotTrack
 {
     public partial class Form1 : MetroForm
     {
@@ -26,9 +26,9 @@ namespace TabControlAdv_HotTrack
             //To check whether the HotTracking is in progress
             if ((drawItemInfo.State & DrawItemState.HotLight) > 0)
             {
-                drawItemInfo.ForeColor = Color.Red;
+                drawItemInfo.ForeColor = Color.Blue;
                 drawItemInfo.BackColor = Color.Khaki;
-                drawItemInfo.Font = new Font("Segoe Marker", 12.0F, FontStyle.Italic);
+                drawItemInfo.Font = new Font("Segoe Marker", 8.0F, FontStyle.Italic);
             }
             //To draw the default background and interior
             drawItemInfo.DrawBackground();

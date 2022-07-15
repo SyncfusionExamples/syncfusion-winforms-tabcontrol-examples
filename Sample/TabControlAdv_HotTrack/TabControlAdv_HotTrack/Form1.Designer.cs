@@ -1,5 +1,5 @@
 ﻿using Syncfusion.Windows.Forms.Tools;
-namespace TabControlAdv_HotTrack
+namespace HotTrack
 {
     partial class Form1
     {

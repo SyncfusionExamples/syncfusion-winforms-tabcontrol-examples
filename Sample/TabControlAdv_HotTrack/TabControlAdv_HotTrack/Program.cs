@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
-using TabControlAdv_HotTrack;
+using HotTrack;
 
-namespace TabControlAdv_HotTrack
+namespace HotTrack
 {
     static class Program
     {
